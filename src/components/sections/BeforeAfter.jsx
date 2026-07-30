@@ -2,6 +2,8 @@ import { FiX, FiCheck } from 'react-icons/fi';
 import SectionHeading from '../ui/SectionHeading.jsx';
 import ScrollReveal from '../../animations/ScrollReveal.jsx';
 import { resolveImage } from '../../utils/images.js';
+import beforeImage from "../../assets/images/before.png";
+import afterImage from "../../assets/images/after.png";
 
 const before = ['Fewer Google reviews', 'Lower walk-in trust', 'Customers forget to review later', 'Slower word-of-mouth growth'];
 const after = ['More Google reviews', 'Stronger walk-in trust', 'Review happens on the spot', 'Faster word-of-mouth growth'];
@@ -19,8 +21,7 @@ export default function BeforeAfter() {
         <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-stretch">
           <ScrollReveal className="card-surface p-8 flex flex-col">
             <div className="aspect-[16/10] rounded-xl overflow-hidden bg-surface-softer dark:bg-dark-surface2 mb-6">
-              {/* Replace this image via src/data image key in BeforeAfter.jsx to show a "before" photo */}
-              <img src={resolveImage('placeholder')} alt="Before using RBTRIX Digital" className="h-full w-full object-cover grayscale opacity-80" />
+            <img src={beforeImage} alt="Before using RBTRIX Digital" className="h-full w-full object-cover grayscale opacity-80"/>
             </div>
             <p className="eyebrow mb-4 text-ink-faint dark:text-dark-soft">Before</p>
             <ul className="space-y-3">
@@ -36,7 +37,7 @@ export default function BeforeAfter() {
           <ScrollReveal delay={0.1} className="card-surface p-8 flex flex-col">
             <div className="aspect-[16/10] rounded-xl overflow-hidden bg-accent-softer dark:bg-dark-surface2 mb-6">
               {/* Replace this image via src/data image key in BeforeAfter.jsx to show an "after" photo */}
-              <img src={resolveImage('placeholder')} alt="After using RBTRIX Digital" className="h-full w-full object-cover" />
+              <img src={afterImage} alt="After using RBTRIX Digital" className="h-full w-full object-cover" />
             </div>
             <p className="eyebrow mb-4 text-accent">After</p>
             <ul className="space-y-3">

@@ -1,12 +1,4 @@
 [
-  { "id": "d1", "customerName": "Rohan Mehta", "businessName": "Sai Cafe", "category": "Cafe", "location": "Pune, MH", "deliveryDate": "2026-05-14", "productUsed": "NFC Review Stand", "status": "Completed", "image": "placeholder" },
-  { "id": "d2", "customerName": "Ananya Sharma", "businessName": "Royal Restaurant", "category": "Restaurant", "location": "Mumbai, MH", "deliveryDate": "2026-05-20", "productUsed": "QR Menu", "status": "Completed", "image": "placeholder" },
-  { "id": "d3", "customerName": "Vikram Desai", "businessName": "Modern Dental Care", "category": "Dental Clinic", "location": "Pune, MH", "deliveryDate": "2026-06-02", "productUsed": "NFC Review Card", "status": "Completed", "image": "placeholder" },
-  { "id": "d4", "customerName": "Priya Nair", "businessName": "Golden Crust Bakery", "category": "Bakery", "location": "Bengaluru, KA", "deliveryDate": "2026-06-10", "productUsed": "Google Review Sticker", "status": "Completed", "image": "placeholder" },
-  { "id": "d5", "customerName": "Karan Malhotra", "businessName": "ABC Salon", "category": "Salon", "location": "Pune, MH", "deliveryDate": "2026-06-18", "productUsed": "Social Media NFC Card", "status": "Completed", "image": "placeholder" },
-  { "id": "d6", "customerName": "Neha Kapoor", "businessName": "Shine Jewels", "category": "Jewellery Shop", "location": "Surat, GJ", "deliveryDate": "2026-06-25", "productUsed": "NFC Review Stand", "status": "Completed", "image": "placeholder" },
-  { "id": "d7", "customerName": "Arjun Reddy", "businessName": "Prime Real Estate", "category": "Real Estate", "location": "Hyderabad, TS", "deliveryDate": "2026-07-01", "productUsed": "WhatsApp NFC Card", "status": "Completed", "image": "placeholder" },
-  { "id": "d8", "customerName": "Simran Kaur", "businessName": "FitZone Gym", "category": "Gym", "location": "Chandigarh, PB", "deliveryDate": "2026-07-08", "productUsed": "NFC Review Card", "status": "In Progress", "image": "placeholder" },
-  { "id": "d9", "customerName": "Aditya Verma", "businessName": "SweetTreats", "category": "Sweet Shop", "location": "Pune, MH", "deliveryDate": "2026-07-15", "productUsed": "Google Review Sticker", "status": "Completed", "image": "placeholder" },
-  { "id": "d10", "customerName": "Meera Joshi", "businessName": "Serene Spa", "category": "Spa", "location": "Pune, MH", "deliveryDate": "2026-07-22", "productUsed": "Social Media NFC Card", "status": "Completed", "image": "placeholder" }
+  { "id": "d1", "customerName": "Rahul Panchal", "businessName": "Friends Cafe", "category": "Cafe", "location": "Pune, MH", "deliveryDate": "2026-07-29", "productUsed": "NFC Review Stand", "status": "Completed", "image": "friends_cafe" },
+  { "id": "d2", "customerName": "Ananya Sharma", "businessName": "Cafe Dreams", "category": "Cafe", "location": "Pune, MH", "deliveryDate": "2026-07-29", "productUsed": "NFC Review Stand", "status": "Completed", "image": "cafe_dreams" }
 ]
