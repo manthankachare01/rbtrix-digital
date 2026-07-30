@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-surface text-ink font-sans antialiased;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html.dark body {
+    @apply bg-dark-bg text-dark-text;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight;
+  }
+
+  ::selection {
+    @apply bg-ink text-white;
+  }
+
+  :focus-visible {
+    outline: 2px solid theme('colors.focus');
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-app {
+    @apply max-w-content mx-auto px-5 md:px-8 lg:px-10;
+  }
+
+  .section-pad {
+    @apply py-20 md:py-28;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold tracking-[0.18em] uppercase text-ink-faint dark:text-dark-soft;
+  }
+
+  .card-surface {
+    @apply bg-surface dark:bg-dark-surface border border-line dark:border-dark-line rounded-xl2 shadow-softer;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-ink text-white dark:bg-white dark:text-ink px-6 py-3 text-sm font-medium transition-all duration-300 ease-premium hover:-translate-y-0.5 hover:shadow-lift active:translate-y-0;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-line dark:border-dark-line bg-transparent text-ink dark:text-dark-text px-6 py-3 text-sm font-medium transition-all duration-300 ease-premium hover:bg-surface-soft dark:hover:bg-dark-surface2 hover:-translate-y-0.5;
+  }
+
+  .input-field {
+    @apply w-full rounded-xl border border-line dark:border-dark-line bg-surface dark:bg-dark-surface2 px-4 py-3 text-sm text-ink dark:text-dark-text placeholder:text-ink-faint focus:border-ink dark:focus:border-dark-text transition-colors;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar { display: none; }
+  .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+  .btn-whatsapp {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-whatsapp text-white px-6 py-3 text-sm font-medium transition-all duration-300 ease-premium hover:bg-whatsapp-dark hover:-translate-y-0.5 hover:shadow-lift active:translate-y-0;
+  }
+
+  .badge-accent {
+    @apply inline-flex items-center gap-1.5 rounded-full bg-accent-soft dark:bg-accent/10 text-accent text-xs font-semibold tracking-wide px-3.5 py-1.5;
+  }
+}

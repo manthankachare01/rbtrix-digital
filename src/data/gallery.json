@@ -1,0 +1,14 @@
+[
+  { "id": "g1", "title": "NFC Review Stand — Counter Setup", "category": "Cafe", "type": "image", "src": "placeholder" },
+  { "id": "g2", "title": "QR Menu — Table Display", "category": "Restaurant", "type": "image", "src": "placeholder" },
+  { "id": "g3", "title": "NFC Review Card — Front Desk", "category": "Hotel", "type": "image", "src": "placeholder" },
+  { "id": "g4", "title": "Review Sticker — Packaging Box", "category": "Bakery", "type": "image", "src": "placeholder" },
+  { "id": "g5", "title": "Social Media Card — Reception", "category": "Salon", "type": "image", "src": "placeholder" },
+  { "id": "g6", "title": "NFC Card — Reception Counter", "category": "Clinic", "type": "image", "src": "placeholder" },
+  { "id": "g7", "title": "WhatsApp Card — Sales Desk", "category": "Real Estate", "type": "image", "src": "placeholder" },
+  { "id": "g8", "title": "NFC Stand — Billing Counter", "category": "Jewellery Shop", "type": "image", "src": "placeholder" },
+  { "id": "g9", "title": "Review Sticker — Glass Door", "category": "Boutique", "type": "image", "src": "placeholder" },
+  { "id": "g10", "title": "NFC Card — Membership Desk", "category": "Gym", "type": "image", "src": "placeholder" },
+  { "id": "g11", "title": "Product Demo Reel", "category": "General", "type": "video", "src": "placeholder" },
+  { "id": "g12", "title": "Unboxing & Setup Walkthrough", "category": "General", "type": "video", "src": "placeholder" }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "nfc-review-stand",
+    "name": "NFC Review Stand",
+    "shortDescription": "A tap-and-review stand for counters, tables, and reception desks.",
+    "description": "A freestanding acrylic stand built for the counter or front desk. One tap opens your Google review page instantly — no app, no typing, no friction. Designed to sit quietly on a counter and do its job every time a customer walks past.",
+    "image": "placeholder",
+    "gallery": ["placeholder", "placeholder", "placeholder"],
+    "features": ["One-tap Google review", "Rewritable NFC chip", "Scratch-resistant surface", "Slim freestanding base"],
+    "bestFor": ["Cafes", "Restaurants", "Salons", "Retail counters"],
+    "material": "Acrylic with metal base",
+    "sizes": ["Small (8 x 12 cm)", "Standard (10 x 15 cm)", "Large (12 x 18 cm)"],
+    "finish": "Matte / Glossy",
+    "customization": true,
+    "printingType": "UV Digital Print",
+    "nfcType": "NTAG213 / NTAG215",
+    "dimensions": "10cm x 15cm x 6cm (Standard)",
+    "applications": ["Billing counter", "Reception desk", "Table top", "Waiting area"],
+    "faqs": [
+      { "q": "Does it work with any phone?", "a": "Yes, it works with all NFC-enabled Android and iPhone (iOS 14+) devices." },
+      { "q": "What happens if a phone doesn't support NFC?", "a": "Every stand includes a printed QR code as a backup, so no customer is ever left out." }
+    ]
+  },
+  {
+    "id": "nfc-review-card",
+    "name": "NFC Review Card",
+    "shortDescription": "A credit-card sized tap card your staff can hand to any customer.",
+    "description": "A slim, pocket-friendly card in the format everyone already recognizes. Perfect for staff to hand across the counter, tuck into a bill folder, or keep at the till for a quick, personal tap.",
+    "image": "placeholder",
+    "gallery": ["placeholder", "placeholder", "placeholder"],
+    "features": ["Credit-card format", "Durable PVC build", "Rewritable NFC chip", "Lightweight and portable"],
+    "bestFor": ["Restaurants", "Clinics", "Boutiques", "Home-based businesses"],
+    "material": "PVC (Plastic)",
+    "sizes": ["Standard CR80 (8.5 x 5.4 cm)"],
+    "finish": "Matte / Glossy",
+    "customization": true,
+    "printingType": "UV Digital Print",
+    "nfcType": "NTAG213 / NTAG215",
+    "dimensions": "8.5cm x 5.4cm x 0.08cm",
+    "applications": ["Handheld at billing", "Inside bill folder", "Front desk display"],
+    "faqs": [
+      { "q": "Can the card be reprogrammed later?", "a": "Yes, the chip can be rewritten if you ever need to update the link." },
+      { "q": "How long does it last?", "a": "With normal handling, the card comfortably lasts several years." }
+    ]
+  },
+  {
+    "id": "google-review-sticker",
+    "name": "Google Review Sticker",
+    "shortDescription": "A weatherproof tap-and-scan sticker for doors, counters, and windows.",
+    "description": "A compact NFC and QR sticker that goes wherever a card or stand can't — glass doors, till counters, delivery boxes, or table corners. Waterproof printing keeps it looking sharp for years.",
+    "image": "placeholder",
+    "gallery": ["placeholder", "placeholder", "placeholder"],
+    "features": ["Waterproof printing", "Strong adhesive backing", "NFC + QR combined", "Ultra-compact size"],
+    "bestFor": ["Bakeries", "Mobile shops", "Delivery packaging", "Glass doors"],
+    "material": "PVC Vinyl",
+    "sizes": ["Small (4 x 4 cm)", "Standard (6 x 6 cm)"],
+    "finish": "Matte / Glossy",
+    "customization": true,
+    "printingType": "Waterproof UV Print",
+    "nfcType": "NTAG213",
+    "dimensions": "6cm x 6cm x 0.03cm (Standard)",
+    "applications": ["Entrance door", "Billing counter", "Packaging box", "Table corner"],
+    "faqs": [
+      { "q": "Will it survive outdoor weather?", "a": "Yes, the printing and adhesive are both rated for outdoor and washroom-level moisture exposure." }
+    ]
+  },
+  {
+    "id": "qr-menu",
+    "name": "QR Menu",
+    "shortDescription": "A tap-friendly digital menu card for tables and counters.",
+    "description": "Replace printed menus with a clean, tappable card that opens your live digital menu. Update prices and items anytime without reprinting a single card.",
+    "image": "placeholder",
+    "gallery": ["placeholder", "placeholder", "placeholder"],
+    "features": ["Instant digital menu access", "No reprinting for updates", "Elegant table-top design", "NFC + QR combined"],
+    "bestFor": ["Restaurants", "Cafes", "Bakeries", "Hotels"],
+    "material": "Acrylic or PVC",
+    "sizes": ["Table Stand", "Wall-Mount Card"],
+    "finish": "Matte / Glossy",
+    "customization": true,
+    "printingType": "UV Digital Print",
+    "nfcType": "NTAG213 / NTAG215",
+    "dimensions": "9cm x 14cm (Table Stand)",
+    "applications": ["Dining table", "Billing counter", "Waiting lounge"],
+    "faqs": [
+      { "q": "Can I update the menu after printing?", "a": "Yes — the card links to your live menu page, so items and prices can change anytime." }
+    ]
+  },
+  {
+    "id": "whatsapp-nfc-card",
+    "name": "WhatsApp NFC Card",
+    "shortDescription": "One tap opens a pre-filled WhatsApp chat with your business.",
+    "description": "Designed for businesses that run on WhatsApp — a single tap opens a chat window with your number already filled in, removing every step between a customer and a conversation.",
+    "image": "placeholder",
+    "gallery": ["placeholder", "placeholder", "placeholder"],
+    "features": ["Instant WhatsApp chat launch", "Pre-filled business number", "Compact card format", "Rewritable chip"],
+    "bestFor": ["Real estate", "Coaching classes", "Jewellery shops", "Service businesses"],
+    "material": "PVC (Plastic)",
+    "sizes": ["Standard CR80 (8.5 x 5.4 cm)"],
+    "finish": "Matte / Glossy",
+    "customization": true,
+    "printingType": "UV Digital Print",
+    "nfcType": "NTAG213 / NTAG215",
+    "dimensions": "8.5cm x 5.4cm x 0.08cm",
+    "applications": ["Reception counter", "Sales desk", "Handheld pitch"],
+    "faqs": [
+      { "q": "Can it open a specific pre-typed message?", "a": "Yes, the message text can be customized so the chat opens with context already added." }
+    ]
+  },
+  {
+    "id": "social-media-nfc-card",
+    "name": "Social Media NFC Card",
+    "shortDescription": "A single tap that opens your Instagram, or a link-in-bio of all your profiles.",
+    "description": "Give customers a fast route to follow you. One tap opens your Instagram, Facebook, or a combined links page — ideal for boutiques, salons, and any brand that grows through social proof.",
+    "image": "placeholder",
+    "gallery": ["placeholder", "placeholder", "placeholder"],
+    "features": ["Opens social profile instantly", "Supports multi-link pages", "Compact card format", "Rewritable chip"],
+    "bestFor": ["Boutiques", "Salons", "Gyms", "Spas"],
+    "material": "PVC (Plastic)",
+    "sizes": ["Standard CR80 (8.5 x 5.4 cm)"],
+    "finish": "Matte / Glossy",
+    "customization": true,
+    "printingType": "UV Digital Print",
+    "nfcType": "NTAG213 / NTAG215",
+    "dimensions": "8.5cm x 5.4cm x 0.08cm",
+    "applications": ["Billing counter", "Studio front desk", "Event booth"],
+    "faqs": [
+      { "q": "Can it link to more than one platform?", "a": "Yes, it can point to a single profile or a link-in-bio page listing all your platforms." }
+    ]
+  }
+]

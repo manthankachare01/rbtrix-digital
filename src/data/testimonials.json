@@ -1,0 +1,7 @@
+[
+  { "id": "t1", "name": "Rohan Mehta", "business": "Sai Cafe", "rating": 5, "review": "Our Google reviews doubled within a month. Customers just tap the stand on the counter before they leave — no explaining needed.", "image": "placeholder" },
+  { "id": "t2", "name": "Ananya Sharma", "business": "Royal Restaurant", "rating": 5, "review": "The QR menu looks premium on every table and we stopped reprinting menus every time a price changed.", "image": "placeholder" },
+  { "id": "t3", "name": "Vikram Desai", "business": "Modern Dental Care", "rating": 5, "review": "Patients tap the card at checkout and leave a review before they've even left the chair. Simple and effective.", "image": "placeholder" },
+  { "id": "t4", "name": "Neha Kapoor", "business": "Shine Jewels", "rating": 4, "review": "The finish and build quality feels genuinely premium — matches the feel of our showroom.", "image": "placeholder" },
+  { "id": "t5", "name": "Arjun Reddy", "business": "Prime Real Estate", "rating": 5, "review": "The WhatsApp card cut our response time to site visitors dramatically. One tap and the chat is already open.", "image": "placeholder" }
+]

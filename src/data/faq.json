@@ -1,0 +1,8 @@
+[
+  { "id": "f1", "question": "How does an NFC review product actually work?", "answer": "Each product has a small NFC chip embedded inside it. When a customer taps their phone against it, their phone opens your Google review page directly — no app or search required." },
+  { "id": "f2", "question": "What if a customer's phone doesn't support NFC?", "answer": "Every NFC product also includes a printed QR code as a backup, so any smartphone can scan it instead." },
+  { "id": "f3", "question": "Can the link be changed after the product is delivered?", "answer": "Yes. All our chips are rewritable, so the destination link can be updated anytime without replacing the product." },
+  { "id": "f4", "question": "Do you offer custom branding and designs?", "answer": "Yes, every product can be printed with your logo, brand colors, and business name." },
+  { "id": "f5", "question": "How long does delivery take?", "answer": "Standard orders are typically ready within 3–5 business days after design approval." },
+  { "id": "f6", "question": "Are the products durable for daily counter use?", "answer": "Yes, all our materials are chosen for daily handling — scratch-resistant surfaces and waterproof printing where applicable." }
+]

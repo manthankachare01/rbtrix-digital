@@ -1,0 +1,686 @@
+[
+  {
+    "id": "cafe",
+    "name": "Cafe",
+    "description": "Tap-to-review stands and stickers built for quick counter service.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "restaurant",
+    "name": "Restaurant",
+    "description": "QR menus and table cards designed for dining rooms and takeaway counters.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "hotel",
+    "name": "Hotel",
+    "description": "NFC cards for front desks, rooms, and checkout for effortless guest reviews.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "bakery",
+    "name": "Bakery",
+    "description": "Weatherproof stickers for boxes, counters, and glass display cases.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "salon",
+    "name": "Salon",
+    "description": "Social and review cards for the styling chair and reception desk.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "clinic",
+    "name": "Clinic",
+    "description": "Discreet review cards for reception counters and waiting areas.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "dental-clinic",
+    "name": "Dental Clinic",
+    "description": "Clean, professional NFC cards for front-desk checkout.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "medical-shop",
+    "name": "Medical Shop",
+    "description": "Compact stickers for billing counters and pharmacy windows.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "gym",
+    "name": "Gym",
+    "description": "Durable cards for front desks and membership check-in counters.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "retail-store",
+    "name": "Retail Store",
+    "description": "Counter stands and stickers for billing points and trial rooms.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "car-showroom",
+    "name": "Car Showroom",
+    "description": "Premium NFC cards for the sales desk and delivery counter.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "real-estate",
+    "name": "Real Estate",
+    "description": "WhatsApp NFC cards for site visits and sales office desks.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "coaching-class",
+    "name": "Coaching Class",
+    "description": "WhatsApp and review cards for the enquiry and admission desk.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "jewellery-shop",
+    "name": "Jewellery Shop",
+    "description": "Elegant NFC cards for the billing counter and consultation desk.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "boutique",
+    "name": "Boutique",
+    "description": "Social media cards for the trial room and billing counter.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "mobile-shop",
+    "name": "Mobile Shop",
+    "description": "Compact stands for billing counters and service desks.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "spa",
+    "name": "Spa",
+    "description": "Calm, minimal review cards for reception and treatment room exits.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "barber-shop",
+    "name": "Barber Shop",
+    "description": "Quick-tap cards for the chair and billing counter.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  },
+  {
+    "id": "sweet-shop",
+    "name": "Sweet Shop",
+    "description": "Waterproof stickers for boxes, counters, and festive packaging.",
+    "image": "placeholder",
+    "banner": "placeholder",
+    "productDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "stickerDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "cardDesigns": [
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "mockups": [
+      "placeholder",
+      "placeholder"
+    ],
+    "gallery": [
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder",
+      "placeholder"
+    ],
+    "videos": []
+  }
+]
